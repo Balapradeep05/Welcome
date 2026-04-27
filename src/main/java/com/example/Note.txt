@@ -1,1 +1,3 @@
-I am a Git Master 
+I am a Git Master
+
+"I am learning the IntelliJ Git GUI."
